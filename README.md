@@ -1,11 +1,12 @@
-#Demo 1 for django crud with my sql
+# Demo 1 for django crud with my sql
 
-#Rest api for django rest framwork
+# Rest api for django rest framwork
 
-##Demo1/Emplolee
+## Demo1/Emplolee
 django crud with my sql
 
-##Installation
+## Installation
+
 1.Clone the project using git hub
 2. Demo1/employee/
 In console 
@@ -61,7 +62,7 @@ INSTALLED_APPS = [
 ]
 Add this lines
 
-4 run servser “python manage.py runserver”
+4. run servser “python manage.py runserver”
 
 
 
