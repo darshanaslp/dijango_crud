@@ -60,7 +60,9 @@ INSTALLED_APPS = [
 'crispy_forms'
 
 ]
-Add this lines
+
+
+
 
 4. run servser “python manage.py runserver”
 
